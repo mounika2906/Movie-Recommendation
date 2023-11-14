@@ -7,7 +7,7 @@
 
    1. [GithubAccount]( https://github.com/)
    2. [VsCodeIDE](https://code.visualstudio.com/)
-   3. [AWS](https://aws.amazon.com/console/)
+   3. [Heroku](https://herokuapp.com/)
    4. [GitCLI](https://git-scm.com/)
 
 
