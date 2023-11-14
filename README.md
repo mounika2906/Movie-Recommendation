@@ -19,3 +19,7 @@ create a new environment
 conda create -p venv python==3.9 -y 
 
 ...
+
+
+##details
+   1. [demovideo](https://drive.google.com/file/d/1Armld4X_8kUCOAGMfIzrskY7DJ_8TYmc/view?usp=sharing)
